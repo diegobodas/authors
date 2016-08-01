@@ -1,0 +1,10 @@
+com/utad/api/wordcount/DriverWordCount.class
+com/utad/api/wordcountcombiner/ReducerWordCountCombiner.class
+com/utad/api/wordcount/ReducerWordCount.class
+com/utad/api/wordcount/MapperWordCount.class
+com/utad/api/wordcountcombiner/CombinerWordCountCombiner.class
+com/utad/api/wordcountcombiner/MapperWordCountCombiner.class
+com/utad/api/samples/ReducerIdentity.class
+com/utad/api/samples/MapperIdentity.class
+com/utad/api/wordcountcombiner/DriverWordCountCombiner.class
+com/utad/api/samples/DriverIdentity.class

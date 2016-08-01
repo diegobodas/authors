@@ -1,0 +1,10 @@
+/home/cloudera/workspace/api.samples/src/main/java/com/utad/api/samples/MapperIdentity.java
+/home/cloudera/workspace/api.samples/src/main/java/com/utad/api/samples/ReducerIdentity.java
+/home/cloudera/workspace/api.samples/src/main/java/com/utad/api/wordcountcombiner/ReducerWordCountCombiner.java
+/home/cloudera/workspace/api.samples/src/main/java/com/utad/api/samples/DriverIdentity.java
+/home/cloudera/workspace/api.samples/src/main/java/com/utad/api/wordcountcombiner/CombinerWordCountCombiner.java
+/home/cloudera/workspace/api.samples/src/main/java/com/utad/api/wordcount/DriverWordCount.java
+/home/cloudera/workspace/api.samples/src/main/java/com/utad/api/wordcount/ReducerWordCount.java
+/home/cloudera/workspace/api.samples/src/main/java/com/utad/api/wordcount/MapperWordCount.java
+/home/cloudera/workspace/api.samples/src/main/java/com/utad/api/wordcountcombiner/MapperWordCountCombiner.java
+/home/cloudera/workspace/api.samples/src/main/java/com/utad/api/wordcountcombiner/DriverWordCountCombiner.java

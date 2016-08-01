@@ -1,0 +1,3 @@
+books/bc/tanselCGSS93/Tuzhilin93:::Alexander Tuzhilin::Pepito Jimenez:::Applications of temporal Databases to Knowledge-based Simulations.
+books/bc/tanselCGSS93/Snodgrass93:::Alexander Tuzhilin:::Antonio Alonso:::Juan Martin:::Applications of temporal Databases to Knowledge-based TQuel.
+books/bc/tanselCGSS93/Snodgrass93:::Solito Estoy:::Un libro publicado en solitario
